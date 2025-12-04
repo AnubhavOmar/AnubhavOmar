@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anubhav Omar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Programmer+%7C+Tech+Enthusiast;Always+learning+new+things!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Student+%7C+Programmer+%7C+Tech+Enthusiast;Always+learn+new+things!&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -9,17 +9,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnubhavOmar&theme=tokyonight&cacheBust=1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AnubhavOmar&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ### 🛠️ Skills & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -45,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=AnubhavOmar&label=VISITORS&countColor=%23263759" />
+  <img src="https://komarev.com/ghpvc/?username=AnubhavOmar&label=VISITORS&color=0e75b6&style=flat" />
 </p>
