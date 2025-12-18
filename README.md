@@ -9,11 +9,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnubhavOmar&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=AnubhavOmar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&column=7&margin-w=10&no-frame=true" />
 </p>
 
 ---
