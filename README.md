@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&column=7&margin-w=10&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&column=7&margin-w=10&no-frame=true&no-bg=true" />
 </p>
 
 ---
