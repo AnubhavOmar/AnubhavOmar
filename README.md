@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anubhav Omar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Student+%7C+Programmer+%7C+Tech+Enthusiast;Always+learn+new+things!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=600&lines=Student+%7C+Programmer+%7C+Tech+Enthusiast;Always+learning+new+things!"/>
 </p>
 
 ---
@@ -9,11 +9,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnubhavOmar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavOmar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=algolia&column=7&margin-w=10&no-frame=true&no-bg=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavOmar&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavOmar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
